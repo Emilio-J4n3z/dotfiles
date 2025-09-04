@@ -1,0 +1,33 @@
+
+[cursor]
+blink_interval = 750
+style = "Block"
+
+[env]
+TERM = "alacritty"
+term = "xterm-256color"
+
+[font]
+size = 14
+
+[font.bold]
+family = "DejaVu Sans Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "DejaVu Sans Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "DejaVu Sans Mono"
+style = "Italic"
+
+[font.normal]
+family = "DejaVu Sans Mono"
+style = "Regular"
+
+[scrolling]
+history = 10000
+
+[general]
+live_config_reload = true
