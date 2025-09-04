@@ -1,6 +1,0 @@
-width = 20%
-dynamic_lines = true
-key_up = Up
-key_down = Down
-hide_scroll = true
-style = /home/emilinho/.config/wofi/style.css
