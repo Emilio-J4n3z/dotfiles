@@ -6,7 +6,7 @@ Mis archivos de configuración para Arch Linux con Sway.
 ## 🖥️ Setup
 - **OS:** Arch Linux
 - **WM:** Sway
-- **Terminal:** Alacritty/Foot
+- **Terminal:** Alacritty
 - **Bar:** Waybar
 - **Launcher:** Wofi
 
