@@ -1,6 +1,9 @@
-width = 20%
+
+mode=drun
+allow_images=true
+image_size=30
+width=50%
 dynamic_lines = true
 key_up = Up
 key_down = Down
 hide_scroll = true
-style = /home/emilinho/.config/wofi/style.css
